@@ -1,0 +1,50 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"concepto_basico/constructor.sol": "PrimerContrato"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"concepto_basico/constructor.sol": {
+			"keccak256": "0xc2584cfd15a7566eb97f15b774d0a7cfa801032a57aa1b1c6a4f612668e0f907",
+			"urls": [
+				"bzz-raw://ef25f942f421ca98f307da593cff5bf49b10aba739eb6b5ca7f1f680f4e55ba9",
+				"dweb:/ipfs/QmabvdJ7x7L23vzpKR5FXzsdKosfXZ3PJVG1fwRDjS5Ck8"
+			]
+		}
+	},
+	"version": 1
+}

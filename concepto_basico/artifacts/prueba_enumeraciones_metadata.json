@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "encender",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_k",
+						"type": "uint256"
+					}
+				],
+				"name": "fijarEstado",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"concepto_basico/prueba_enum.sol": "prueba_enumeraciones"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"concepto_basico/prueba_enum.sol": {
+			"keccak256": "0xb536db05322773772d9c4d55d43ac975f3e1ade8037883c8d9118378eac93c35",
+			"urls": [
+				"bzz-raw://a350750be8aee797d94674e86d2473f0f86becc2cb7b2eb80682835a8251dd19",
+				"dweb:/ipfs/QmPCp5ACRfHCiPtThKjGuSpbYPt7KUvtBUaaMHBL55o5s3"
+			]
+		}
+	},
+	"version": 1
+}

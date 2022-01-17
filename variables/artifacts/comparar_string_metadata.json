@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_j",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_i",
+						"type": "string"
+					}
+				],
+				"name": "comparar_function",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"variables/comparar.sol": "comparar_string"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"variables/comparar.sol": {
+			"keccak256": "0x5a94d0cba2194f0aea9056c3070c5faeb91583ea831b64fa6a4e9bc311f3525e",
+			"urls": [
+				"bzz-raw://b4533250c7a5237e77f68ef9fd28c85eb4ba036bd68ded8cea8d4dc1f5e920bd",
+				"dweb:/ipfs/QmVyTUSsHxrswiPnDVRkLHEbFngTcWXTeSaEGoHXMJ6WjJ"
+			]
+		}
+	},
+	"version": 1
+}
